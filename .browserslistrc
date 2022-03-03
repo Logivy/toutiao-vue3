@@ -1,0 +1,7 @@
+# Browsers that we support
+
+[Android]
+>= 8.0
+
+[IOS]
+>= 4
